@@ -24,6 +24,13 @@
 
 ---
 
+## 🗣️ Consigli, Domande d'Esame &amp; Lore (Chat Telegram)
+- Scritto ad alta difficoltà per lunghezza e precisione (limiti con Taylor, integrali impropri, studi di funzione).
+- Orale rigoroso sulle dimostrazioni dei teoremi cardine (Weierstrass, Rolle, Lagrange).
+- Le date escono su esami.unipi.it ~1 mese prima: iscriversi subito appena aprono.
+
+---
+
 ## 🎯 Programma &amp; Argomenti Chiave
 - [x] **Limiti e continuità**
 - [x] **Derivabilità (Rolle, Lagrange, Cauchy)**
